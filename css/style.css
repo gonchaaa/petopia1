@@ -108,4 +108,45 @@
     margin-right: 10px;
     font-size: 20px;
   }
+}
+#care {
+  padding-top: 10%;
+  width: 100%;
+  background-image: url(../image/shape_banner_bg.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+#care .box1 span {
+  color: purple;
+  font-weight: bold;
+}
+#care .box1 h1 {
+  font-weight: 800;
+  width: 70%;
+  font-size: 50px;
+}
+#care .box1 a {
+  text-decoration: none;
+}
+#care .box1 a .box3 i {
+  color: #7C58D3;
+  border: 1px solid #a499be;
+  padding: 15px;
+  border-radius: 10px;
+  transition: 0.3 ease-in-out;
+}
+#care .box1 a .box3 i:hover {
+  background-color: #7C58D3;
+  color: white;
+}
+#care .box1 a .box3 h4 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 10px;
+  margin-top: 20px;
+}
+#care .box1 a .box3 p {
+  color: black;
 }/*# sourceMappingURL=style.css.map */
